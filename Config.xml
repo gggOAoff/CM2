@@ -1,0 +1,17 @@
+<configuration>
+	<package>
+		<name>Test</name>
+		<version>1.0.1</version>
+	</package>
+	<repository>
+		<mode>Mode1</mode>
+		<test_path>TestRepo.xml</test_path>
+		<url>Link</url>
+	</repository>
+	<output>
+		<filename>graph</filename>
+	</output>
+	<filters>
+		<substring>Test</substring>
+	</filters>
+</configuration>
